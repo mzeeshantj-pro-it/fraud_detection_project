@@ -184,8 +184,8 @@ After running `train.py` on the full ULB dataset:
 | **Random Forest**   | **99.83%** | **50.88%** | **88.78%** | **64.68%** | **0.9762** | **90.84%** |
 | SVM                 | 98.17%   | 7.80%     | 88.78% | 14.33% | 0.9805 | 91.33% |
 
-**Key finding:** Random Forest generates only 59 false alarms versus
-1,442 for Logistic Regression — 24x fewer false alarms while catching
+**Key finding:** Random Forest generates only 84 false alarms versus
+1,035 for Logistic Regression — 12x fewer false alarms while catching
 nearly the same number of fraud cases.
 
 ---
