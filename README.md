@@ -180,8 +180,8 @@ After running `train.py` on the full ULB dataset:
 
 | Model               | Accuracy | Precision | Recall | F1     | AUC    | CV F1  |
 |---------------------|----------|-----------|--------|--------|--------|--------|
-| Logistic Regression | 97.45%   | 5.81%     | 90.82% | 10.93% | 0.9719 | 84.66% |
-| **Random Forest**   | **99.88%** | **59.31%** | **87.76%** | **70.78%** | **0.9782** | **90.09%** |
+| Logistic Regression | 98.17%   | 7.84%     | 89.80% | 14.41% | 0.9738 | 86.83% |
+| **Random Forest**   | **99.83%** | **50.88%** | **88.78%** | **64.68%** | **0.9762** | **90.84%** |
 | SVM                 | 98.17%   | 7.80%     | 88.78% | 14.33% | 0.9805 | 91.33% |
 
 **Key finding:** Random Forest generates only 59 false alarms versus
